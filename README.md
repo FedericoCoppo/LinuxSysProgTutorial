@@ -1,11 +1,9 @@
 
 # Description
-This is a simple example of process, callback, shared memory and semaphore (Unix system V) 
-usage on Linux system programming
+This is a simple example of process, callback, shared memory and semaphore (Unix system V) usage on Linux system programming.
 
 # Environment
-Ubuntu 16.04 
-Eclipse cross GCC
+Ubuntu 16.04 and Eclipse cross GCC.
 
 # Code
 ```
